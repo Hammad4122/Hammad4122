@@ -33,6 +33,21 @@
 
 ---
 
+## 🧠 My Best Projects
+
+### 📌 Maths Practice Game 2.0
+
+A feature-rich terminal-based math game developed using Python.
+
+- ✅ Randomized question generation with all four operators
+- ⏱️ Countdown timer and average time tracking
+- 🎯 Score system with increasing difficulty
+- 🧼 Clean UX: screen clearing, input validation, modular code
+
+🔗 **[Click here to view the Python file](https://github.com/Hammad4122/Mini_Projects/blob/main/Maths%20Practice%20Game%202.0.py)**
+
+---
+
 ### 📂 Projects
 
 #### 🔢 Maths Practice Game 2.0
