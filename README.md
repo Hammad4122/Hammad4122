@@ -69,7 +69,6 @@ A feature-rich terminal-based math game developed using Python.
 
 ### 📫 Connect with Me
 
-📧 Email: muhammadhammadateeq@gmail.com
 
 📧 **Email:** muhammadhammadateeq@gmail.com
 
