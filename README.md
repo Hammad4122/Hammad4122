@@ -53,20 +53,9 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:muhammadhammadateeq@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-hammad-ateeq-648ba5371/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/muhammad_hammad_python" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Muhammad_Hammad_python/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+📧 Email: muhammadhammadateeq@gmail.com
+
+<p align="left"> <a href="https://www.linkedin.com/in/muhammad-hammad-ateeq-648ba5371/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/muhammad_hammad_python" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> <a href="https://leetcode.com/u/Muhammad_Hammad_python/" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /> </a> </p>
 
 ---
 
