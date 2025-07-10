@@ -12,7 +12,7 @@
 
 ### 👨‍🎓 About Me
 - 📌 I'm Muhammad Hammad, an **ICS graduate** (Computer Science, Math, Physics).
-- 🎯 Currently applying to **FAST University Islamabad** to pursue **Software Engineering** or **AI**.
+- 🎯 Currently applying to **COMSATS University Islamabad** to pursue **Software Engineering** or **AI**.
 - 🔭 My passion lies in **Artificial Intelligence**, **Machine Learning**, and writing clean, efficient code.
 - 🧠 Currently learning **Python**, **NumPy**, **Pandas**, **C++**, and **Streamlit**.
 
