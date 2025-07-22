@@ -33,7 +33,7 @@
 
 ---
 
-## 🧠 My Best Projects
+## 🧠 My Best Project
 
 ### 📌 Maths Practice Game 2.0
 
