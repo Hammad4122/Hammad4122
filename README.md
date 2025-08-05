@@ -13,7 +13,7 @@
 ### 👨‍🎓 About Me
 - 📌 I'm Muhammad Hammad, an **ICS graduate** (Computer Science, Math, Physics).
 - 🔭 My passion lies in **Artificial Intelligence**, **Machine Learning**, and writing clean, efficient code.
-- 🧠 Currently learning **Python**, **NumPy**, **Pandas**, **C++**, and **Streamlit**.
+- 🧠 Currently learning **Python**, **NumPy**, **Pandas**, **C++**,**Matplotlib**,**Seaborn** and **Streamlit**.
 
 ---
 
