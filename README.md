@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <a><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Remote%20Desktop-0078D4?style=for-the-badge&logo=microsoft-remote-desktop&logoColor=white" /></a>
 </p>
 
 ---
