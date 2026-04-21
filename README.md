@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 📌 **Software Engineering student** at Bahria University (Class BSE-2A) and **ICS Graduate**.
+- 📌 **Software Engineering student** at Bahria University and **ICS Graduate**.
 - 🔭 Passionate about building functional, data-driven applications and secure software.
 - 🧠 I specialize in **visualizing complex datasets** and creating intuitive user interfaces.
 - 🛠️ Currently working with **C++ (Qt)** for desktop software and **Python (Pandas/Streamlit)** for data tools.
