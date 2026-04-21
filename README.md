@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Muhammad Hammad 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student @ Bahria University | Data Analysis & Dashboard Engineer</b>
+  <b>Software Engineering Student @ Bahria University | Associate Software Developer & Data Analyst</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergrad;Data+Visualization+%26+Analysis;Building+Interactive+Streamlit+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Software+Engineering;Data+Visualization+%26+Analysis" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
-- 📌 **Software Engineering student** at Bahria University (Class BSE-2A).
-- 🔭 Focused on **Data Analysis** and building functional, data-driven applications.
+- 📌 **Software Engineering student** at Bahria University (Class BSE-2A) and **ICS Graduate**.
+- 🔭 Passionate about building functional, data-driven applications and secure software.
 - 🧠 I specialize in **visualizing complex datasets** and creating intuitive user interfaces.
 - 🛠️ Currently working with **C++ (Qt)** for desktop software and **Python (Pandas/Streamlit)** for data tools.
 
@@ -21,14 +21,17 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-1C2C4C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -65,17 +68,29 @@ A professional-grade desktop application built with **C++** and **Qt Framework**
 - **Software Architecture:** Mastering Object-Oriented Programming and memory management in C++.
 - **Advanced Data Analysis:** Expanding my toolkit for deeper statistical exploration.
 - **Desktop UX:** Designing complex, user-centric interfaces with custom Qt widgets.
+- **Problem Solving:** Active logic building on LeetCode.
 
 ---
 
 ### 📫 Connect with Me
+
 📧 **Email:** muhammadhammadateeq@gmail.com
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-hammad-ateeq-648ba5371/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/muhammad_hammad_python" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/Muhammad_Hammad_python/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammad4122&show_icons=true&theme=radical&cache_bust=1" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4122&layout=compact&theme=radical&cache_bust=1" height="180"/>
 </p>
