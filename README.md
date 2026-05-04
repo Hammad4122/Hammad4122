@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Hammad 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student @ Bahria University | Associate Software Developer & Data Analyst</b>
+  <b>Software Engineering Student @ Bahria University | Associate Software Developer & Data Analyst</b> 
 </p>
 
 <p align="center">
